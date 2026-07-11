@@ -1,0 +1,5 @@
+baseURL: "https://bugfrog1024.github.io/money-come/"
+languageCode: "zh-cn"
+title: "Money Come - 技术博客"
+theme: "your-theme"
+publishDir: "public"
